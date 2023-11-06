@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rl9B4PIpozZm+Dn/M55NACiQI3mREintbnjlx+uL6I4=",
+  "Hash": "g+FZP0K2LfquupSVsEtnWxxkjRmLQLdHfIdO+GlwoUg=",
   "Source": "EduVision",
   "BasePath": "_content/EduVision",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/all.min.css"
+    },
+    {
+      "Identity": "/Users/hieu_dat/Workplace/Dev/GitHub/EduVision/EduVision/EduVision/wwwroot/Assets/.DS_Store",
+      "SourceId": "EduVision",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/hieu_dat/Workplace/Dev/GitHub/EduVision/EduVision/EduVision/wwwroot/",
+      "BasePath": "_content/EduVision",
+      "RelativePath": "Assets/.DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Assets/.DS_Store"
     },
     {
       "Identity": "/Users/hieu_dat/Workplace/Dev/GitHub/EduVision/EduVision/EduVision/wwwroot/Assets/back.png",
@@ -2922,6 +2939,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/UploadedFiles/ERRORS__C0h3dgZXDERDJVZSgpthQ.jpeg"
+    },
+    {
+      "Identity": "/Users/hieu_dat/Workplace/Dev/GitHub/EduVision/EduVision/EduVision/wwwroot/UploadedFiles/IMG_4104_G2r7cfkjPE6JxMvLOj9HA.JPG",
+      "SourceId": "EduVision",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/hieu_dat/Workplace/Dev/GitHub/EduVision/EduVision/EduVision/wwwroot/",
+      "BasePath": "_content/EduVision",
+      "RelativePath": "UploadedFiles/IMG_4104_G2r7cfkjPE6JxMvLOj9HA.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/UploadedFiles/IMG_4104_G2r7cfkjPE6JxMvLOj9HA.JPG"
     },
     {
       "Identity": "/Users/hieu_dat/Workplace/Dev/GitHub/EduVision/EduVision/EduVision/wwwroot/UploadedFiles/jessica-lam-oB48_OfrXlU-unsplash_g8zZqES08cTb1JiljBA.JPG",
