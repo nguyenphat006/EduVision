@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AnAccount" xml:space="preserve">
+    <value>An Account</value>
+  </data>
+  <data name="ASPNETMVCWebApplication" xml:space="preserve">
+    <value>.NET Web Application</value>
+  </data>
+  <data name="Benefits" xml:space="preserve">
+    <value>Benefits</value>
+  </data>
+  <data name="BootstrapHTMLWebsiteTemplates" xml:space="preserve">
+    <value>Bootstrap HTML Website Templates</value>
+  </data>
+  <data name="Confirmpassword" xml:space="preserve">
+    <value>Xác nhận mật khẩu</value>
+  </data>
+<data name="DetailedDocumentation" xml:space="preserve">
+    <value>Tài liệu chi tiết</value>
+</data>
+<data name="Email" xml:space="preserve">
+    <value>Email</value>
+</data>
+<data name="EmailAddress" xml:space="preserve">
+    <value>Địa chỉ Email</value>
+</data>
+<data name="EnvatoPortfolio" xml:space="preserve">
+    <value>Hồ sơ Envato</value>
+</data>
+<data name="FAQ" xml:space="preserve">
+    <value>Câu hỏi thường gặp</value>
+</data>
+<data name="FAQFourAnswer" xml:space="preserve">
+    <value>Có, đó là trong kế hoạch của chúng tôi, nhưng vào lúc này, chúng tôi không thể đảm bảo thời gian phát hành cụ thể.</value>
+</data>
+<data name="FAQFourQuestion" xml:space="preserve">
+    <value>Bạn có thể tạo phiên bản .NET Core MVC không?</value>
+</data>
+<data name="FAQOneAnswer" xml:space="preserve">
+    <value>Chúng tôi chỉ hỗ trợ sửa lỗi hiện có trong các mẫu và trả lời các câu hỏi liên quan đến các tính năng hiện có. Hướng dẫn từng bước về cách thực hiện sửa đổi tùy chỉnh, cách giải quyết sự cố sau khi bạn thực hiện sửa đổi và cài đặt trực tiếp không phải là phần của dịch vụ hỗ trợ của chúng tôi. Rất cảm ơn sự hiểu biết của bạn. Chúng tôi sẽ dành thời gian của mình để tạo ra nhiều mẫu tuyệt vời hơn cho bạn.</value>
+</data>
+
+  <data name="FAQOneQuestion" xml:space="preserve">
+    <value>Chính sách hỗ trợ là gì?</value>
+</data>
+<data name="FAQThreeAnswer" xml:space="preserve">
+    <value>Có, bạn có thể. Điều hướng đến "/Views/Shared/_FooterBeforeLogin.cshtml" và tìm phần chân trang để chỉnh sửa hoặc loại bỏ văn bản bản quyền.</value>
+</data>
+<data name="FAQThreeQuestion" xml:space="preserve">
+    <value>Tôi có thể chỉnh sửa hoặc loại bỏ văn bản bản quyền ở chân trang không?</value>
+</data>
+<data name="FAQTwoAnswerPartOne" xml:space="preserve">
+    <value>Câu trả lời là: Ngay sau khi mua hàng.</value>
+</data>
+<data name="FAQTwoAnswerPartTwo" xml:space="preserve">
+    <value>Để biết thêm thông tin, có phần "Tải xuống sản phẩm của bạn" ở cuối bài viết này.</value>
+</data>
+<data name="FAQTwoQuestion" xml:space="preserve">
+    <value>Khi nào tôi có thể tải tệp sau khi mua sản phẩm?</value>
+</data>
+<data name="Feature1" xml:space="preserve">
+    <value>Quản lý người dùng</value>
+</data>
+
+  <data name="Feature10" xml:space="preserve">
+    <value>Tái đánh giá tự động</value>
+</data>
+<data name="Feature10Description" xml:space="preserve">
+    <value>Nếu một giáo viên chọn sai câu trả lời là câu đúng và phát hiện điều này sau khi học sinh đã làm bài thi, kết quả của họ sẽ được tái đánh giá tự động nếu họ muốn thay đổi câu trả lời.</value>
+</data>
+<data name="Feature11" xml:space="preserve">
+    <value>Biểu đồ phân tích</value>
+</data>
+<data name="Feature11Description" xml:space="preserve">
+    <value>Biểu đồ để phân tích kết quả, câu hỏi mà học sinh trả lời sai nhiều nhất và nhiều tính năng khác.</value>
+</data>
+<data name="Feature12" xml:space="preserve">
+    <value>Luật nghiêm ngặt</value>
+</data>
+<data name="Feature12Description" xml:space="preserve">
+    <value>Không thể bỏ qua câu hỏi. Không thể sao chép nội dung câu hỏi trong khi làm bài thi.</value>
+</data>
+<data name="Feature1Description" xml:space="preserve">
+    <value>Quản trị hệ thống có thể tạo, cập nhật và xóa người dùng. Học sinh và giáo viên cũng có thể tự đăng ký tài khoản.</value>
+</data>
+<data name="Feature2" xml:space="preserve">
+    <value>Lưu trữ ngân hàng câu hỏi</value>
+</data>
+
+  <data name="Feature2Description" xml:space="preserve">
+    <value>Lưu trữ ngân hàng câu hỏi của bạn và sử dụng lại trong các kỳ thi khác nhau với phân phối điểm khác nhau.</value>
+</data>
+<data name="Feature3" xml:space="preserve">
+    <value>Lên lịch kỳ thi</value>
+</data>
+<data name="Feature3Description" xml:space="preserve">
+    <value>Bạn có thể lưu kỳ thi ngay bây giờ và lên lịch để bắt đầu sau. Sau đó, công bố kỳ thi khi nó đã sẵn sàng để thông báo cho học sinh.</value>
+</data>
+<data name="Feature4" xml:space="preserve">
+    <value>Kết quả của học sinh</value>
+</data>
+<data name="Feature4Description" xml:space="preserve">
+    <value>Kết quả của học sinh có thể được xuất ra Excel hoặc PDF. Bạn cũng có thể sắp xếp danh sách kết quả theo điểm số học sinh để xem danh sách những học sinh giỏi nhất trong kỳ thi.</value>
+</data>
+<data name="Feature5" xml:space="preserve">
+    <value>Nhập câu hỏi</value>
+</data>
+<data name="Feature5Description" xml:space="preserve">
+    <value>Bạn có thể tạo câu hỏi theo lô bằng cách nhập chúng từ Excel.</value>
+</data>
+
+  <data name="Feature6" xml:space="preserve">
+    <value>Nhập người dùng</value>
+</data>
+<data name="Feature6Description" xml:space="preserve">
+    <value>Bạn có thể tạo tài khoản người dùng theo lô bằng cách nhập từ Excel.</value>
+</data>
+<data name="Feature7" xml:space="preserve">
+    <value>Ngẫu nhiên câu hỏi</value>
+</data>
+<data name="Feature7Description" xml:space="preserve">
+    <value>Bạn có thể chọn làm ngẫu nhiên hoặc không ngẫu nhiên thứ tự câu hỏi trong một kỳ thi. Việc làm ngẫu nhiên câu hỏi có thể ngăn chặn việc gian lận vì học sinh không thể thảo luận về câu trả lời vì họ đang nhận các câu hỏi khác nhau vào cùng một thời điểm.</value>
+</data>
+<data name="Feature8" xml:space="preserve">
+    <value>Phát hành câu trả lời</value>
+</data>
+<data name="Feature8Description" xml:space="preserve">
+    <value>Bạn có thể chọn phát hành hoặc không phát hành câu trả lời cho các câu hỏi. Trước khi câu trả lời được phát hành, học sinh sẽ nhận kết quả của họ nhưng sẽ không thể thấy câu trả lời chính xác. Chúng tôi khuyên bạn nên phát hành câu trả lời chỉ sau khi tất cả học sinh đã tham gia kỳ thi.</value>
+</data>
+<data name="Feature9" xml:space="preserve">
+    <value>Xuất kết quả</value>
+</data>
+<data name="Feature9Description" xml:space="preserve">
+    <value>Kết quả của học sinh có thể được xuất ra Excel hoặc PDF.</value>
+</data>
+<data name="Features" xml:space="preserve">
+    <value>Tính năng</value>
+</data>
+<data name="Features1" xml:space="preserve">
+    <value>Tính năng</value>
+</data>
+
+  <data name="FeaturesDescription" xml:space="preserve">
+    <value>ExamEase Chứa Đầy Đủ Các Tính Năng Cần Thiết Để Tổ Chức Kỳ Thi.</value>
+</data>
+<data name="Fillyourdetailstoregister" xml:space="preserve">
+    <value>Điền thông tin của bạn để đăng ký.</value>
+</data>
+<data name="Fillyourusernameandpasswordtosignin" xml:space="preserve">
+    <value>Điền tên người dùng và mật khẩu của bạn để đăng nhập.</value>
+</data>
+<data name="FollowUs" xml:space="preserve">
+    <value>Theo dõi chúng tôi</value>
+</data>
+<data name="FollowUsDescription" xml:space="preserve">
+    <value>Theo dõi trang mạng xã hội của chúng tôi để cập nhật thông tin hoặc tin tức về các dự án.</value>
+</data>
+<data name="Forgotyourpassword" xml:space="preserve">
+    <value>Quên mật khẩu của bạn?</value>
+</data>
+<data name="FrequentlyAskedQuestions" xml:space="preserve">
+    <value>Câu hỏi Thường gặp</value>
+</data>
+<data name="Home" xml:space="preserve">
+    <value>Trang chủ</value>
+</data>
+
+  <data name="HomeDescription" xml:space="preserve">
+    <value>ExamEase là một hệ thống thi trực tuyến cung cấp quản lý kỳ thi, quản lý ngân hàng câu hỏi, chấm điểm tự động, bảng điều khiển phân tích và nhiều tính năng khác.</value>
+</data>
+<data name="HomeTitleOne" xml:space="preserve">
+    <value>Cách bạn đánh giá học sinh của bạn</value>
+</data>
+<data name="HomeTitleTwo" xml:space="preserve">
+    <value />
+</data>
+<data name="ImportAndExport" xml:space="preserve">
+    <value>Nhập &amp; Xuất</value>
+</data>
+<data name="Login" xml:space="preserve">
+    <value>Đăng nhập</value>
+</data>
+<data name="NetStarterFAQArticles" xml:space="preserve">
+    <value>Bài viết FAQ ExamEase</value>
+</data>
+<data name="OurProducts" xml:space="preserve">
+    <value>Sản phẩm của chúng tôi</value>
+</data>
+<data name="Password" xml:space="preserve">
+    <value>Mật khẩu</value>
+</data>
+<data name="RegisterAndLogin" xml:space="preserve">
+    <value>Đăng ký &amp; Đăng nhập</value>
+</data>
+
+  <data name="Rememberme" xml:space="preserve">
+    <value>Nhớ tôi?</value>
+</data>
+<data name="RolePermission" xml:space="preserve">
+    <value>Quyền hạn Vai trò</value>
+</data>
+<data name="SendingEmail" xml:space="preserve">
+    <value>Gửi Email</value>
+</data>
+<data name="SignUp" xml:space="preserve">
+    <value>Đăng Ký</value>
+</data>
+<data name="Specifications" xml:space="preserve">
+    <value>Đặc Điểm Kỹ Thuật</value>
+</data>
+<data name="Submit" xml:space="preserve">
+    <value>Gửi</value>
+</data>
+<data name="TheFollowingArticle" xml:space="preserve">
+    <value>Bài viết sau</value>
+</data>
+<data name="ToNetStarter" xml:space="preserve">
+    <value>Đến ExamEase</value>
+</data>
+<data name="UploadFile" xml:space="preserve">
+    <value>Tải Lên Tệp</value>
+</data>
+<data name="UsefulLinks" xml:space="preserve">
+    <value>Liên Kết Hữu Ích</value>
+</data>
+<data name="Username" xml:space="preserve">
+    <value>Tên Đăng Nhập</value>
+</data>
+<data name="ViewMore" xml:space="preserve">
+    <value>Xem Thêm</value>
+</data>
+
+  <data name="WebAppTitle" xml:space="preserve">
+    <value>ExamEase</value>
+</data>
+<data name="WhatyougetDescription" xml:space="preserve">
+    <value>Sau khi mua, bạn sẽ nhận được một tệp Zip chứa các nội dung sau:</value>
+</data>
+<data name="WhyUs1Description" xml:space="preserve">
+    <value>Lưu trữ ngân hàng câu hỏi của bạn và sử dụng lại chúng trong các kỳ thi khác nhau với phân phối điểm khác nhau.</value>
+</data>
+<data name="WhyUs1Title" xml:space="preserve">
+    <value>Câu hỏi có thể sử dụng lại</value>
+</data>
+<data name="WhyUs2Description" xml:space="preserve">
+    <value>Nói lời tạm biệt với sự phiền toái của các kỳ thi trên giấy và hệ thống chấm điểm thủ công tốn thời gian.</value>
+</data>
+<data name="WhyUs2Title" xml:space="preserve">
+    <value>Tiết kiệm thời gian của bạn</value>
+</data>
+<data name="WhyUs3Description" xml:space="preserve">
+    <value>Tối ưu hóa quy trình thi cử của bạn. Tạo bài kiểm tra, chọn câu hỏi từ ngân hàng câu hỏi, phân phối điểm, hoàn tất!</value>
+</data>
+<data name="WhyUs3Title" xml:space="preserve">
+    <value>Quy trình đơn giản</value>
+</data>
+<data name="WhyUsDescription" xml:space="preserve">
+    <value>Thay đổi thứ tự câu hỏi, Lên lịch ngày và giờ bắt đầu kỳ thi, Lưu trữ ngân hàng câu hỏi của bạn và nhiều tính năng khác.</value>
+</data>
+<data name="WhyUsTitle" xml:space="preserve">
+    <value>Tại sao chọn ExamEase</value>
+</data>
+</root>
