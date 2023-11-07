@@ -117,17 +117,18 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AnAccount" xml:space="preserve">
-    <value>An Account</value>
-  </data>
-  <data name="ASPNETMVCWebApplication" xml:space="preserve">
-    <value>.NET Web Application</value>
-  </data>
-  <data name="Benefits" xml:space="preserve">
-    <value>Benefits</value>
-  </data>
-  <data name="BootstrapHTMLWebsiteTemplates" xml:space="preserve">
-    <value>Bootstrap HTML Website Templates</value>
+<data name="AnAccount" xml:space="preserve">
+    <value>Tài Khoản</value>
+</data>
+<data name="ASPNETMVCWebApplication" xml:space="preserve">
+    <value>Ứng Dụng Web .NET</value>
+</data>
+<data name="Benefits" xml:space="preserve">
+    <value>Lợi Ích</value>
+</data>
+<data name="BootstrapHTMLWebsiteTemplates" xml:space="preserve">
+    <value>Mẫu Trang Web HTML Bootstrap</value>
+</data>
   </data>
   <data name="Confirmpassword" xml:space="preserve">
     <value>Xác nhận mật khẩu</value>

@@ -359,3 +359,4 @@ D:\Coder\Github\EduVision\EduVision\EduVision\bin\Debug\net6.0\vi\EduVision.reso
 D:\Coder\Github\EduVision\EduVision\EduVision\obj\Debug\net6.0\EduVision.Resources.HomePageResource.vi.resources
 D:\Coder\Github\EduVision\EduVision\EduVision\obj\Debug\net6.0\vi\EduVision.resources.cs
 D:\Coder\Github\EduVision\EduVision\EduVision\obj\Debug\net6.0\vi\EduVision.resources.dll
+D:\Coder\Github\EduVision\EduVision\EduVision\obj\Debug\net6.0\EduVision.Resources.Resource.vi.resources
